@@ -1,4 +1,6 @@
-# DarkPlaces Engine
+# NotDarkPlaces Engine
+
+This is a Darkplaces Engine Fork not endorsed by the DarkPlaces team themselves (They're scared of the big bad tendo).
 
 DarkPlaces is a game engine based on the Quake 1 engine by id Software. It
 improves and builds upon the original 1996 engine by adding modern rendering
@@ -8,6 +10,8 @@ well as supporting additional map and model formats.
 Developed by LadyHavoc. See [CREDITS](CREDITS.md) for a list of contributors.
 
 ## Help/support
+
+This is for regular Darkplaces support. Please don't ask about any issues specific to this fork.
 
 ### IRC
 #darkplaces on irc.anynet.org

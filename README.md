@@ -1,4 +1,4 @@
-# NotDarkPlaces Engine
+# OpenQK Engine
 
 This is a Darkplaces Engine Fork not endorsed by the DarkPlaces team themselves.
 
